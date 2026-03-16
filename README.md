@@ -7,6 +7,7 @@ Setup
 Clone the Repository:
 Set Up the Database:
 
+
 Open MySQL Workbench.
 Create a new database named LibraryDB.
 Set up the necessary tables for books, users, and book issues.
